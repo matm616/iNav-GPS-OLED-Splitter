@@ -1756,7 +1756,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "5V GND SCL SDA"
+	(gr_text "SDA SCL GND 5V"
 		(at 87 74 0)
 		(layer "F.SilkS")
 		(uuid "db8204b8-e23a-40bb-a3dc-762045609811")
